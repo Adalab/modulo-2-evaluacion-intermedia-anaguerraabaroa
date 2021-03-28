@@ -1,6 +1,6 @@
 ![Random Number Banner](https://media.istockphoto.com/photos/green-binary-code-matrix-background-wide-banner-picture-id898346256?k=6&m=898346256&s=170667a&w=0&h=Ta11wMZRI1X4IJeXAamhKRj-UrvH3pEMku7oEKWActQ=)
 
-# **RandomNumber**
+# **Random Number**
 
 Half Module 2 project of the Adalab Digital Frontend Development Bootcamp.
 
@@ -10,7 +10,7 @@ This is an app to guess a random number developed with [<img src = "https://img.
 
 Clone repository and open project on a browser with VSCode live server plugin.
 
-Project **[URL](https://anaguerraabaroa.github.io/RandomNumber/)** is also available on GitHub Pages.
+Project **[URL](https://anaguerraabaroa.github.io/random-number/)** is also available on GitHub Pages.
 
 ## **Project features**
 
