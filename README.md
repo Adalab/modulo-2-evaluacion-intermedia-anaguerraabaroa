@@ -22,7 +22,7 @@ Project **[URL](https://anaguerraabaroa.github.io/random-number/)** is also avai
 ## **Folder Structure**
 
 ```
-RandomNumber
+Random Number
 ├── images
 │   └── app.jpg
 ├── styles
