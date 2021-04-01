@@ -1,4 +1,4 @@
-![Random Number Banner](https://media.istockphoto.com/photos/green-binary-code-matrix-background-wide-banner-picture-id898346256?k=6&m=898346256&s=170667a&w=0&h=Ta11wMZRI1X4IJeXAamhKRj-UrvH3pEMku7oEKWActQ=)
+![Random Number App](./images/app.png)
 
 # **Random Number**
 
@@ -24,7 +24,7 @@ Project **[URL](https://anaguerraabaroa.github.io/random-number/)** is also avai
 ```
 Random Number
 ├── images
-│   └── app.jpg
+│   └── app.png
 ├── styles
 │   └── main.css
 ├── index.html
@@ -55,10 +55,6 @@ git add -A
 git commit -m "Message commit"
 git push
 ```
-
-## **Screenshots**
-
-![Random Number App](./images/app.jpg)
 
 ## **License**
 
