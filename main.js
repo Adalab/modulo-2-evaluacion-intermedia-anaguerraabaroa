@@ -6,6 +6,7 @@ const inputElement = document.querySelector(".js-input");
 const clueElement = document.querySelector(".js-clue");
 const attemptsElement = document.querySelector(".js-attempts");
 
+// get random number
 function getRandomNumber(max) {
   return Math.ceil(Math.random() * max);
 }
@@ -13,6 +14,7 @@ function getRandomNumber(max) {
 const randomNumber = getRandomNumber(100);
 console.log(randomNumber);
 
+// app handler
 function getFinalNumber() {
   const userNumber = parseInt(inputElement.value);
   console.log(userNumber);
@@ -30,6 +32,7 @@ function getFinalNumber() {
   attemptsElement.innerHTML = getAttemptsNumber();
 }
 
+// get attempts to guess number
 let attempts = 0;
 function getAttemptsNumber() {
   attempts++;
