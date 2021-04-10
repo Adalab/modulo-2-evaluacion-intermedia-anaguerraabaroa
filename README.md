@@ -4,13 +4,24 @@
 
 Half Module 2 project of the Adalab Digital Frontend Development Bootcamp.
 
-This is an app to guess a random number developed with [<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">](https://html.spec.whatwg.org/) [<img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">](https://www.w3.org/Style/CSS/) and [<img src = "https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">](https://www.ecma-international.org/ecma-262/)
+This is an app to guess a random number developed with [<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">](https://html.spec.whatwg.org/) [<img src="https://img.shields.io/badge/-SASS-cc6699?style=for-the-badge&logo=sass&logoColor=ffffff">](https://sass-lang.com/)
+ [<img src = "https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">](https://www.w3.org/Style/CSS/) and [<img src="https://img.shields.io/badge/-SASS-cc6699?style=for-the-badge&logo=sass&logoColor=ffffff">](https://sass-lang.com/)
 
-## **Installation**
+## **Quick start guide**
 
-Clone repository and open project on a browser with VSCode live server plugin.
+Instructions to start this project:
 
-Project **[URL](https://anaguerraabaroa.github.io/random-number/)** is also available on GitHub Pages.
+### Installation
+
+- Clone repository:
+
+```
+git clone [repository]
+```
+
+- Run project on local server with VSCode live server plugin.
+
+- **[Project URL](https://anaguerraabaroa.github.io/random-number/)** is also available on GitHub Pages.
 
 ## **Project features**
 
