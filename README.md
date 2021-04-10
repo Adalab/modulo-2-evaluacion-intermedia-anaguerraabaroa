@@ -23,7 +23,7 @@ git clone [repository]
 
 - **[Project URL](https://anaguerraabaroa.github.io/random-number/)** is also available on GitHub Pages.
 
-## **Project features**
+## **Features**
 
 - Generate a random number with methods Math.random and Math.ceil when app runs
 - Input to enter a random number manually
